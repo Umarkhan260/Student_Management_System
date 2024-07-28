@@ -52,7 +52,7 @@ function App() {
         console.log(response.data);
         // Reset the form after successful submission
         setFormData({
-            Name: "",
+            Name: '',
             RollNumber: "",
             Department: "",
             Mobile: "",
